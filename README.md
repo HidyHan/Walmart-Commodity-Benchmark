@@ -10,6 +10,8 @@ given the search word "cold cereal" and "cereal".
 Ranking_and_Reviews records ranking and number of reviews for each item when the program is run.
 Ranking_and_Star records ranking and stars for each item (whose star information is not missing) when the program is run.
 
+
+
 Run Cereal_Analytics to answer to following questions:
 
 1) Given a set of competitor brands, for a given time range, for a given search term, what percentage of search results are owned by each brand?
